@@ -1,0 +1,24 @@
+----------------------------------------------
+AceMesh Scheduler's Version Info:
+Git Version Number: 305297d66e33248c6297da003b7c74cb0e0005b1 
+git date: 2020-09-03 10:57:58
+the Compile (Build) Time of this Lib is 2021-04-14 00:37:46
+/*********************************************/
+Current Configurations of the Scheduler:       
+BASIC SCHEDULER            : ACEMESH_OWN 
+DETAILED STRATEGY          : stack,
+HIER_EXEC                  : OFF
+CPU_BIND                   : ON 
+PAR_REGISTER               : OFF
+DAG_PARTITION              : NONE 
+SCHEDULER_PROFILING        : OFF 
+DEBUG_GRAPH                : OFF 
+PAPI                       : OFF 
+NOT_MPI_STRATEGY           : ON 
+SPECIFY_END_TASKS          : OFF
+MEMORY_POOL                : OFF
+ALL_CYCLIC                 : OFF
+/*********************************************/
+endTask refcount: 64
+--exec time : 0.0678784
+endTask refcount: 4096
